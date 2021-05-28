@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
             </Head>
             <section className={utilStyles.headingMd}>
                 <p>
-                    Hi , My name is Francis Ganya and i am passionate about software engineering.
+                    Hi , My name is Francis Ganya and i am software engineer. I am passionate about software developing beautiful and efficient software systems!
                 </p>
                 <p>
                     This is a sample website - you'll be building a site like this on{' '}
